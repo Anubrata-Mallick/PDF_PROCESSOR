@@ -51,7 +51,7 @@ pip install -r requirements.txt
 Start the Flask server:
 
 ```bash
-python app.py
+python TextImgsplit.py
 ```
 
 The API will run at:
