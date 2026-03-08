@@ -7,7 +7,7 @@ It will extract all text and images from a pdf and store it locally
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PDF_PROCESSOR.git
+git clone https://github.com/<<YOUR_USERNAME>>/PDF_PROCESSOR.git
 ```
 
 ```bash
